@@ -16,3 +16,5 @@ function reverseString(str) {
 }
 
 console.log(reverseString("Carina"));
+
+//from free code camp//
